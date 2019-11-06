@@ -8,7 +8,11 @@ banner:
     Long-term savings can be significant depending on engine set up and individual run times.
 
     Find out more ph: 0477604072 or email centri.pty.ltd@gmail.com
-  actions: []
+  actions:
+  - label: Contact
+    url: mailto:centri.pty.ltd@gmail.com
+    is_scrolly: false
+    is_primary: false
   bottom_link:
     label: Contact
     url: mailto:centri.pty.ltd@gmail.com
