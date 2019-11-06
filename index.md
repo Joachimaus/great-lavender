@@ -10,8 +10,8 @@ banner:
     Find out more ph: 0477604072 or email centri.pty.ltd@gmail.com
   actions: []
   bottom_link:
-    label: ''
-    url: ''
+    label: Contact
+    url: mailto:centri.pty.ltd@gmail.com
     has_arrow: false
     is_scrolly: false
 sections: []
