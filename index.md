@@ -3,6 +3,8 @@ title: Home
 banner:
   title: Centri Pty Ltd
   subtitle: |-
+    ![](/images/centri-logo.png)
+
     We clean used oil via centrifuges to run indirect injection engines dual tank start up/shut down or diesel on single tank oil/diesel/fuel mix.
 
     Long-term savings can be significant depending on engine set up and individual run times.
