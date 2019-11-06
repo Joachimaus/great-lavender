@@ -4,7 +4,4 @@ social_icons:
   icon: fa-envelope-o
   url: mailto:centri.pty.ltd@gmail.com
 copyright: "&copy; Spectral"
-links:
-- text: Made with Stackbit
-  url: https://www.stackbit.com
-  new_window: true
+links: []
